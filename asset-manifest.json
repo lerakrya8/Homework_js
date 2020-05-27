@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/js_homework/static/css/main.a987e4fd.chunk.css",
+    "main.js": "/js_homework/static/js/main.8e5e7268.chunk.js",
+    "main.js.map": "/js_homework/static/js/main.8e5e7268.chunk.js.map",
+    "runtime-main.js": "/js_homework/static/js/runtime-main.d156edc2.js",
+    "runtime-main.js.map": "/js_homework/static/js/runtime-main.d156edc2.js.map",
+    "static/js/2.5fd5bdaa.chunk.js": "/js_homework/static/js/2.5fd5bdaa.chunk.js",
+    "static/js/2.5fd5bdaa.chunk.js.map": "/js_homework/static/js/2.5fd5bdaa.chunk.js.map",
+    "index.html": "/js_homework/index.html",
+    "precache-manifest.41ab24f121c5d771c896f517478ec15d.js": "/js_homework/precache-manifest.41ab24f121c5d771c896f517478ec15d.js",
+    "service-worker.js": "/js_homework/service-worker.js",
+    "static/css/main.a987e4fd.chunk.css.map": "/js_homework/static/css/main.a987e4fd.chunk.css.map",
+    "static/js/2.5fd5bdaa.chunk.js.LICENSE.txt": "/js_homework/static/js/2.5fd5bdaa.chunk.js.LICENSE.txt",
+    "static/media/Autorisation.css": "/js_homework/static/media/Beautiful-nature-landscape-mountains-top-view-clouds-fog-morning_2560x1600.cccdc452.jpg",
+    "static/media/unnamed.png": "/js_homework/static/media/unnamed.ba80d2b3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d156edc2.js",
+    "static/js/2.5fd5bdaa.chunk.js",
+    "static/css/main.a987e4fd.chunk.css",
+    "static/js/main.8e5e7268.chunk.js"
+  ]
+}
