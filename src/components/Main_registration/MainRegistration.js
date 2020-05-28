@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
-import './Main_registration.css'
+import '/MainRegistration.css'
 import {
     Link, withRouter
 } from 'react-router-dom'
 import { withFirebase } from '../firebase/indexfile'
 
-class Main_registration extends Component {
+class MainRegistration extends Component {
 
     constructor() {
         super();
@@ -97,6 +97,6 @@ class Main_registration extends Component {
     }
 }
 
-const Main_regForm = withFirebase(withRouter(Main_registration));
+const MainregForm = withFirebase(withRouter(MainRegistration));
 
-export default Main_regForm
+export default MainregForm

@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import './Registration.css'
-import Main_regForm from '../../components/Main_registration/Main_registration'
+import MainRegForm from '../../components/Main_registration/MainRegistration'
 import Header from '../../components/Header/Heager'
 
 class Registration extends Component {
@@ -8,7 +8,7 @@ class Registration extends Component {
         return (
             <div className = 'Main_page'> 
                 <Header />
-                <Main_regForm />
+                <MainRegForm />
             </div>
         )
     }

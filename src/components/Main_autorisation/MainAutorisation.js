@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
-import './Main_autorusation.css'
+import './MainAutorisation'
 import {
     Link, withRouter
 } from 'react-router-dom'
 import { withFirebase } from '../firebase/indexfile'
 
-class Main_autorisationForm extends Component {
+class MainAutorisationForm extends Component {
 
     constructor() {
         super();
@@ -48,6 +48,6 @@ class Main_autorisationForm extends Component {
     }
 }
 
-const Main_autorisation = withFirebase(withRouter(Main_autorisationForm));
+const MainAutorisation = withFirebase(withRouter(MainAutorisationForm));
 
-export default Main_autorisation
+export default MainAutorisation

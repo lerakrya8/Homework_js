@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
-import './Main_converter.css'
+import './MainConverter'
 
-class Main_reg extends Component {
+class MainConverter extends Component {
 
     constructor() {
         super();
@@ -110,4 +110,4 @@ class Main_reg extends Component {
     
 }
 
-export default Main_reg
+export default MainConverter
