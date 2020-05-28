@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import '/MainRegistration.css'
+import './MainRegistration.css'
 import {
     Link, withRouter
 } from 'react-router-dom'
