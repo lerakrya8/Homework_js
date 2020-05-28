@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import './Registration.css'
-import MainRegForm from '../../components/Main_registration/MainRegistration'
+import MainRegForm from '../../components/MainRegistration/MainRegistration'
 import Header from '../../components/Header/Heager'
 
 class Registration extends Component {

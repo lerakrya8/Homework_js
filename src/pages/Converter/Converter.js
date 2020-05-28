@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import './Converter.css'
 import Header1 from '../../components/Header1/Header1'
-import MainConverter from '../../components/Main_converter/MainConverter'
+import MainConverter from '../../components/MainConverter/MainConverter'
 
 class Converter extends Component {
     render() {
